@@ -27,8 +27,7 @@ en: &DEFAULT_EN
       - title: "Product Counsel"
         desc: "Open source compliance and compatibility. Component acquisition. IP protection. EULA drafting. Privacy compliance."
         icon: fas fa-laptop
-     # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-         - title: "Alliances"
+      - title: "Alliances"
         desc: "Partnerships to create new products. OEM and reseller agreements."
         icon: fab fa-markdown
 
