@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Commercial Counsel"
-        desc: "Supporting the sales teams. Negotiating with opposing counsel. 'Last Mile' deal closing."
+        desc: "Supporting the sales teams. Negotiating with opposing counsel. Closing deals."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Product Counsel"
         desc: "Open source compliance and compatibility. Component acquisition. IP protection. EULA drafting. Privacy compliance."
