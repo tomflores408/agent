@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: I'm Tom Flores: attorney, gamer, and operations specialist
-    text: It's Nice To Meet You
+    title: Hi! My name is Tom Flores: in-house software attorney, gamer, and operations specialist
+    text: Thank you for visiting my site
     button: Tell Me More
     buttonlink: "#services"
 
